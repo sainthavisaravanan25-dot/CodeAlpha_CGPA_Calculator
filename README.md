@@ -17,3 +17,5 @@ A C++ program that calculates semester-wise GPA and overall CGPA of a student ba
 ## How to Run
 1. Compile the program using a C++ compiler.
 2. Run the executable file.
+## Author:
+Sainthavi Saravanan
