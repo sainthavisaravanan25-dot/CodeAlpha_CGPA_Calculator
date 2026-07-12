@@ -19,3 +19,5 @@ A C++ program that calculates semester-wise GPA and overall CGPA of a student ba
 2. Run the executable file.
 ## Author:
 Sainthavi Saravanan
+## OUTPUT Screenshot
+![CGPA Calculator Output]
